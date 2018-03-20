@@ -11,7 +11,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/jroimartin/gocui"
+	"github.com/BellerophonMobile/gocui"
 )
 
 func nextView(g *gocui.Gui, v *gocui.View) error {

@@ -1,1 +1,1 @@
-module "github.com/jroimartin/gocui"
+module "github.com/BellerophonMobile/gocui"
